@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.key
+*.pem
+*.log
+
+*.py[cod]
+.env.*
+!.env.example

@@ -1,0 +1,18 @@
+name: 建议新增步骤/模板
+description: 提交可复用的匿名职业经验
+title: "[建议] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: pain
+    attributes:
+      label: 读者的具体卡点是什么？
+      description: 不要披露可识别个人信息或公司机密。
+    validations:
+      required: true
+  - type: textarea
+    id: action
+    attributes:
+      label: 具体操作、完成凭证、受阻替代方案
+    validations:
+      required: true

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="434" viewBox="0 0 950 434" role="img" aria-label="2025年城镇单位平均年工资">
+<rect width="100%" height="100%" fill="#101b2d"/>
+<text x="45" y="58" fill="#f5f8ff" font-size="28" font-family="Noto Sans CJK SC, sans-serif" font-weight="700">2025年城镇单位平均年工资</text>
+<text x="45" y="89" fill="#b9c8e6" font-size="16" font-family="Noto Sans CJK SC, sans-serif">国家统计局2026-05-15发布；人民币元/年</text>
+<text x="45" y="145" fill="#d8e4f9" font-size="18" font-family="Noto Sans CJK SC, sans-serif">非私营单位平均</text>
+<rect x="360" y="125" width="252.6" height="30" rx="5" fill="#6eacff"/>
+<text x="627.6" y="148" fill="#fff" font-size="18" font-family="Noto Sans CJK SC, sans-serif" font-weight="700">129,441元</text>
+<text x="45" y="218" fill="#d8e4f9" font-size="18" font-family="Noto Sans CJK SC, sans-serif">私营单位平均</text>
+<rect x="360" y="198" width="139.7" height="30" rx="5" fill="#6eacff"/>
+<text x="514.7" y="221" fill="#fff" font-size="18" font-family="Noto Sans CJK SC, sans-serif" font-weight="700">71,590元</text>
+<text x="45" y="291" fill="#d8e4f9" font-size="18" font-family="Noto Sans CJK SC, sans-serif">规模以上企业中层及以上管理人员</text>
+<rect x="360" y="271" width="409.8" height="30" rx="5" fill="#6eacff"/>
+<text x="784.8" y="294" fill="#fff" font-size="18" font-family="Noto Sans CJK SC, sans-serif" font-weight="700">210,016元</text>
+<text x="45" y="376" fill="#9eb4d9" font-size="13" font-family="Noto Sans CJK SC, sans-serif">不同人群/统计口径，不能计算个人涨薪比例或当成Offer分布</text>
+<a href="https://www.stats.gov.cn/sj/zxfb/202605/t20260515_1963707.html" target="_blank"><text x="45" y="401" fill="#91bfff" font-size="13" font-family="Noto Sans CJK SC, sans-serif">数据原文：https://www.stats.gov.cn/sj/zxfb/202605/t20260515_1963707.html</text></a>
+</svg>

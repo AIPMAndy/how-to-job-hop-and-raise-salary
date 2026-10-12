@@ -1,0 +1,19 @@
+name: 错误/过时内容
+description: 提供可以复查的错误证据，不提交私人资料
+title: "[纠错] "
+labels: ["documentation"]
+body:
+  - type: textarea
+    id: observed
+    attributes:
+      label: 哪一步存在错误？
+      description: 提供章节链接、期望与实际行为；勿提交个人工资、合同、身份证及商业机密。
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 公开证据/来源/核验日期
+      description: 法律、政策、薪酬数据必须说明适用范围。
+    validations:
+      required: false

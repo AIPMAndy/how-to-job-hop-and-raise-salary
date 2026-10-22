@@ -10,6 +10,10 @@
 
 </div>
 
+**跳槽涨薪怎么做？** 这份免费指南把一次社招求职拆成可以照着做的步骤：先判断该不该跳，再做岗位和薪酬调查、写简历、投递、面试、谈薪、比较 Offer，最后安全离职。10 章教程、50 项任务、26 份模板，全部免费。
+
+*English: a free step-by-step guide to changing jobs and getting a raise in China: job targeting, resume, interviews, salary negotiation and offer comparison.*
+
 [在线阅读](https://aipmandy.github.io/how-to-job-hop-and-raise-salary/) · [Andy个人官网](https://metaver.vip/) · 微信 **AIPMAndy**
 
 ---
@@ -154,6 +158,32 @@ flowchart LR
   G --> B
 ```
 
+## 常见问题 FAQ
+
+### 跳槽涨薪第一步做什么？
+
+先算出当前保底税前现金、真实风险底线和可接受的岗位，再去查 10 个真实 JD。照着上面的“先执行这7天”走一遍就行。
+
+### 跳槽一般能涨多少？
+
+没有适用所有人的通用百分比。要同城、同岗、同级、同口径比较，还要把生活成本和风险算进去。
+
+### 招聘平台上的薪资区间，就是我能拿到的钱吗？
+
+不是。区间可能涵盖不同级别、月数和浮动部分，实际报价还取决于招聘流程和合同。
+
+### 谈薪能不能说手上有别的 Offer？
+
+没有就不要编。有真实的外部机会，可以据实、在合适范围内讨论。
+
+### 投了很多简历没回复，是简历太差吗？
+
+不一定，也可能是岗位冻结、申请的人太多或者不匹配。攒够样本以后再调整变量，用求职漏斗找到掉点。
+
+### 这份指南收费吗？
+
+从章节到模板全部免费，不用登录。更多问题看 [20 个常见问题](FAQ.md)。
+
 ## 自愿咨询：什么时候需要人帮你看？
 
 项目从章节到模板均免费。如果你已经执行并明确卡在职级标准、晋升材料、岗位定位、简历证据、面试复盘、谈薪取舍等**个性化判断**，可以自愿向作者寻求职业咨询。
@@ -168,3 +198,23 @@ flowchart LR
 - **延伸阅读**：[Andy《失业了咋办？保姆级指南》](https://github.com/AIPMAndy/how-to-survive-unemployment)。
 
 *提醒：本仓库不构成个性化法律、税务、薪酬或聘用承诺。*
+
+<!-- andy-author-card:start -->
+## 作者 / About the author
+
+**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+
+可以找我聊求职咨询、AI 增长和副业陪跑，服务范围和费用先沟通确认。
+
+微信 `AIPMAndy`（备注「跳槽涨薪」）· [X @AIPMAndy](https://x.com/AIPMAndy) · [Telegram @AIPMAndy](https://t.me/AIPMAndy) · [个人官网 metaver.vip](https://metaver.vip/) · [Grok Bot 中文攻略](https://aipmandy.github.io/grok-bot-handbook/)
+
+*AI Chief Andy (Andy Liu, @AIPMAndy on GitHub and X) is a former Tencent and Baidu AI product expert and former VP at an LLM unicorn, now a serial entrepreneur focused on AI and product methodology.*
+
+### 作者的其他项目
+
+- [失业自救开源手册](https://github.com/AIPMAndy/how-to-survive-unemployment)：失业怎么办、被裁员后怎么办：补偿、失业金、医保社保和现金流
+- [一个人靠 AI 赚钱](https://github.com/AIPMAndy/one-person-ai-income-guide)：验证需求、第一笔收款、交付与复购，附 30 天计划
+- [中国人赚美金](https://github.com/AIPMAndy/how-to-earn-usd-from-china)：8 种海外收入路线、获客、报价、收款与税务
+- [Grok Bot 中文攻略](https://github.com/AIPMAndy/grok-bot-handbook)：Grok Bot / AI Agent 中文教程，26 章加 40 套任务指令
+
+<!-- andy-author-card:end -->

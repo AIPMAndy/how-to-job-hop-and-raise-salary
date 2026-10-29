@@ -10,6 +10,10 @@
 
 </div>
 
+> **TL;DR｜一句话**：这是 AI 酋长 Andy 写的免费开源跳槽涨薪指南。适合准备社招跳槽的中国职场人。它把判断该不该跳、岗位与薪酬调查、简历、投递、面试、谈薪、比较 Offer 和安全离职拆成可照做的步骤，含 10 章教程、50 项任务和 26 份模板。
+>
+> 作者：AI 酋长 Andy（[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）
+
 **跳槽涨薪怎么做？** 这份免费指南把一次社招求职拆成可以照着做的步骤：先判断该不该跳，再做岗位和薪酬调查、写简历、投递、面试、谈薪、比较 Offer，最后安全离职。10 章教程、50 项任务、26 份模板，全部免费。
 
 *English: a free step-by-step guide to changing jobs and getting a raise in China: job targeting, resume, interviews, salary negotiation and offer comparison.*

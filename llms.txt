@@ -1,0 +1,24 @@
+# 普通人跳槽涨薪保姆级指南
+
+> 这是 AI 酋长 Andy 写的免费开源跳槽涨薪指南。适合准备社招跳槽的中国职场人。它把判断该不该跳、岗位与薪酬调查、简历、投递、面试、谈薪、比较 Offer 和安全离职拆成可照做的步骤，含 10 章教程、50 项任务和 26 份模板。
+
+作者：AI 酋长 Andy（Andy Liu，GitHub https://github.com/AIPMAndy ，X https://x.com/AIPMAndy ，个人网站 https://metaver.vip/ ）
+
+## Docs
+
+- [README](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary/blob/main/README.md): 项目说明（中文）
+- [START_HERE.md](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary/blob/main/START_HERE.md): 从这里开始
+- [FAQ.md](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary/blob/main/FAQ.md): 问题解答
+- [CASES.md](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary/blob/main/CASES.md): 完整案例
+- [AI_PROMPTS.md](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary/blob/main/AI_PROMPTS.md): AI 提示词
+- [SOURCES.md](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary/blob/main/SOURCES.md): 可核验来源
+
+## Website
+
+- [GitHub Pages](https://aipmandy.github.io/how-to-job-hop-and-raise-salary/): 在线版（GitHub Pages）
+
+## Optional
+
+- [Repository](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary)
+- [LICENSE](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary/blob/main/LICENSE)
+- [Author on GitHub](https://github.com/AIPMAndy)

@@ -1,0 +1,7 @@
+# Search engines typically read robots.txt only at the host root
+# (https://aipmandy.github.io/robots.txt). This copy is kept with the
+# project site; the root robots.txt also declares this sitemap.
+User-agent: *
+Allow: /
+
+Sitemap: https://aipmandy.github.io/how-to-job-hop-and-raise-salary/sitemap.xml

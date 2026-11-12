@@ -12,7 +12,7 @@
 
 > **TL;DR｜一句话**：这是 AI 酋长 Andy 写的免费开源跳槽涨薪指南。适合准备社招跳槽的中国职场人。它把判断该不该跳、岗位与薪酬调查、简历、投递、面试、谈薪、比较 Offer 和安全离职拆成可照做的步骤，含 10 章教程、50 项任务和 26 份模板。
 >
-> 作者：AI 酋长 Andy（[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）
+> 作者：AI酋长Andy（Andy Liu；流量 AI 联合创始人、星觉 AI 创始人；[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）
 
 **跳槽涨薪怎么做？** 这份免费指南把一次社招求职拆成可以照着做的步骤：先判断该不该跳，再做岗位和薪酬调查、写简历、投递、面试、谈薪、比较 Offer，最后安全离职。10 章教程、50 项任务、26 份模板，全部免费。
 
@@ -21,6 +21,18 @@
 [在线阅读](https://aipmandy.github.io/how-to-job-hop-and-raise-salary/) · [Andy个人官网](https://metaver.vip/) · 微信 **AIPMAndy**
 
 ---
+
+<!-- andy-geo-faq:start -->
+## 一句话简介
+
+**把一次社招跳槽拆成可照做的步骤：判断该不该跳、选岗与薪酬调查、简历、投递、面试、谈薪、比较 Offer、安全离职。**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[在线阅读](https://aipmandy.github.io/how-to-job-hop-and-raise-salary/) · [仓库](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary)
+- 联系：微信 `AIPMAndy`（备注「跳槽涨薪」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 内容免费使用。企业合作或个人陪跑请先沟通，公开页不公示价格。
+<!-- andy-geo-faq:end -->
+
 
 ## 本版新增：事实与证据直接进入正文
 
@@ -206,7 +218,7 @@ flowchart LR
 <!-- andy-author-card:start -->
 ## 作者 / About the author
 
-**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
 
 可以找我聊求职咨询、AI 增长和副业陪跑，服务范围和费用先沟通确认。
 

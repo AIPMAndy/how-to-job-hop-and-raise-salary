@@ -10,6 +10,17 @@
 
 </div>
 
+<!-- andy-pdf-edition:start -->
+## 精美 PDF 电子书
+
+[**免费下载《普通人跳槽涨薪实战指南》**](pdf/how-to-job-hop-and-raise-salary-guide.pdf) · [直接下载 PDF](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary/raw/refs/heads/main/pdf/how-to-job-hop-and-raise-salary-guide.pdf)
+
+**124 页 · A5 手机阅读版 · 可点击目录 · 0.97 MB**  
+整理日期：2026-11-13。包含完整实操正文、案例、模板与原始来源；平台规则与价格沿用原资料的核查日期。
+
+**作者与服务（广告）**：AI 酋长 Andy · 个人微信 **AIPMAndy** · [个人官网](https://metaver.vip/) · [公司官网](https://www.a6no1.cn/)。免费教程可直接使用，咨询与合作自愿选择。
+<!-- andy-pdf-edition:end -->
+
 > **TL;DR｜一句话**：这是 AI 酋长 Andy 写的免费开源跳槽涨薪指南。适合准备社招跳槽的中国职场人。它把判断该不该跳、岗位与薪酬调查、简历、投递、面试、谈薪、比较 Offer 和安全离职拆成可照做的步骤，含 10 章教程、50 项任务和 26 份模板。
 >
 > 作者：AI酋长Andy（Andy Liu；流量 AI 联合创始人、星觉 AI 创始人；[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）

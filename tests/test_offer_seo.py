@@ -1,5 +1,6 @@
 """Regression and SEO/manifest QA for offer comparison (no network during tests)."""
 import json
+import hashlib
 from pathlib import Path
 import re
 import unittest
@@ -19,6 +20,7 @@ class OfferCompareTest(unittest.TestCase):
         ed=json.loads((ROOT/"pdf/edition.json").read_text(encoding="utf-8"))
         self.assertEqual(ed["pages"],124)
         self.assertTrue((ROOT/ed["pdf_path"]).is_file())
+        self.assertEqual(hashlib.sha256((ROOT/ed["pdf_path"]).read_bytes()).hexdigest(),ed["sha256"])
         self.assertEqual(ed["sha256"],"9ce5626b8b3d9b1f47eaf534234771bb81f5a364d4ced2aad7b036869d8d6e21")
     def test_seo_and_structured_data(self):
         p=(ROOT/"compare.html").read_text(encoding="utf-8")

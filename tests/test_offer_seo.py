@@ -27,7 +27,7 @@ class OfferCompareTest(unittest.TestCase):
         self.assertIn('https://aipmandy.github.io/how-to-job-hop-and-raise-salary/compare.html',p)
         self.assertIn('name="robots" content="index,follow"',p)
         self.assertIn('2026-10-12',p)
-        blocks=re.findall(r'<script type="application/ld\\+json">(.+?)</script>',p,re.S)
+        blocks=[p.split('<script type="application/ld+json">',1)[1].split('</script>',1)[0]] if '<script type="application/ld+json">' in p else []
         self.assertEqual(len(blocks),1)
         data=json.loads(blocks[0])
         self.assertEqual(data["url"],"https://aipmandy.github.io/how-to-job-hop-and-raise-salary/compare.html")

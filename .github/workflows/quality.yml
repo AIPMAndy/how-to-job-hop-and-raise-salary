@@ -15,3 +15,8 @@ jobs:
       - run: pip install -r requirements-dev.txt
       - run: python build.py
       - run: python -m unittest discover -s tests -v
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test tests/test_compare.js
+      - run: node --check compare.js

@@ -14,4 +14,11 @@ jobs:
           python-version: '3.11'
       - run: pip install -r requirements-dev.txt
       - run: python build.py
+      - name: Ensure generated homepage is committed exactly
+        run: git diff --exit-code -- index.html
       - run: python -m unittest discover -s tests -v
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test tests/test_compare.js
+      - run: node --check compare.js

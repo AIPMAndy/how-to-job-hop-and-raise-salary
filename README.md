@@ -21,6 +21,15 @@
 **作者与服务（广告）**：AI 酋长 Andy · 个人微信 **AIPMAndy** · [个人官网](https://metaver.vip/) · [公司官网](https://www.a6no1.cn/)。免费教程可直接使用，咨询与合作自愿选择。
 <!-- andy-pdf-edition:end -->
 
+## 新增实操：跳槽回本与 Offer 税前现金对比（2026-11-23）
+
+[**直接打开在线计算器**](https://aipmandy.github.io/how-to-job-hop-and-raise-salary/compare.html) · [工具源代码](compare.js) · [离线打开](compare.html)
+
+在已有年度现金拆分计算器基础上，新增「现岗位 vs 新 Offer」同口径比较：输入自己确认的固定年度现金、失去收入的空窗月数、搬家/通勤新增成本及书面确认且可兑现的签约金，计算持续年度增量、首个12个月税前差额、回本月份。支持本地 TXT 导出，不自动保存薪酬数据、不上传资料。
+
+公式和边界在工具页面公开。结果**不是税后金额、Offer 保证或涨薪成功率**；不包含期权、竞业约束、奖金归属或法律判断。原 124 页 PDF 是 **2026-11-13 历史版**，本轮不改二进制、不冒称已经完成200%人工逐页质检。证据最初核验日沿用 [SOURCES.md](SOURCES.md) 的 2026-10-12。
+
+
 > **TL;DR｜一句话**：这是 AI 酋长 Andy 写的免费开源跳槽涨薪指南。适合准备社招跳槽的中国职场人。它把判断该不该跳、岗位与薪酬调查、简历、投递、面试、谈薪、比较 Offer 和安全离职拆成可照做的步骤，含 10 章教程、50 项任务和 26 份模板。
 >
 > 作者：AI酋长Andy（Andy Liu；流量 AI 联合创始人、星觉 AI 创始人；[GitHub @AIPMAndy](https://github.com/AIPMAndy) · [X @AIPMAndy](https://x.com/AIPMAndy) · [metaver.vip](https://metaver.vip/)）

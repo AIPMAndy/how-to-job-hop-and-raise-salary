@@ -42,16 +42,28 @@
 
 ---
 
-<!-- andy-geo-faq:start -->
+<!-- andy-geo:start -->
 ## 一句话简介
 
-**把一次社招跳槽拆成可照做的步骤：判断该不该跳、选岗与薪酬调查、简历、投递、面试、谈薪、比较 Offer、安全离职。**
+**跳槽涨薪保姆级指南：选岗、简历、面试、谈薪全流程，10 章教程 + 26 份模板｜Job-hop & salary negotiation guide (China)**
 
 - 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
-- 阅读或使用：[在线阅读](https://aipmandy.github.io/how-to-job-hop-and-raise-salary/) · [仓库](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary)
-- 联系：微信 `AIPMAndy`（备注「跳槽涨薪」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
-- 内容免费使用。企业合作或个人陪跑请先沟通，公开页不公示价格。
-<!-- andy-geo-faq:end -->
+- 阅读或使用：[在线阅读/使用](https://aipmandy.github.io/how-to-job-hop-and-raise-salary/) · [GitHub 仓库](https://github.com/AIPMAndy/how-to-job-hop-and-raise-salary)
+- 联系：微信 `AIPMAndy`（备注「how-to-job-hop-and-raise-salary」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 许可：MIT。内容免费使用；企业合作或个人陪跑请先沟通，公开页不公示价格。
+- 机器可读摘要：[llms.txt](llms.txt)（供 AI 引擎与检索工具读取）
+
+## 常见问题
+
+**这是什么？**普通人跳槽涨薪保姆级指南：跳槽涨薪保姆级指南：选岗、简历、面试、谈薪全流程，10 章教程 + 26 份模板｜Job-hop & salary negotiation guide (China)
+
+**包含什么？**主要模块：精美 PDF 电子书、新增实操：跳槽回本与 Offer 税前现金对比（2026-11-23）、本版新增：事实与证据直接进入正文、先看证据：提升简历、搜岗、谈薪到底有没有研究依据？、只花3分钟，先选你的入口、先执行这7天。
+
+**要花钱吗？**按 MIT 许可免费使用；付费只涉及作者的企业合作与一对一咨询，不影响仓库内容。
+
+**怎么开始？**直接打开 https://aipmandy.github.io/how-to-job-hop-and-raise-salary/ 在线阅读；想本地运行或参与贡献，见下方 README 的快速开始部分。
+
+<!-- andy-geo:end -->
 
 
 ## 本版新增：事实与证据直接进入正文
